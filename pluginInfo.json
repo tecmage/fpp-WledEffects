@@ -3,9 +3,9 @@
 	"name": "WLED Effects",
 	"author": "Adam Coulombe",
 	"description": "This plugin adds a UI page with buttons to start and stop the built-in WLED effects",
-	"homeURL": "https://github.com/adamcoulombe/fpp-WledEffects",
-	"srcURL": "https://github.com/adamcoulombe/fpp-WledEffects.git",
-	"bugURL": "https://github.com/adamcoulombe/fpp-WledEffects/issues",
+	"homeURL": "https://github.com/tecmage/fpp-WledEffects",
+	"srcURL": "https://github.com/tecmage/fpp-WledEffects.git",
+	"bugURL": "https://github.com/tecmage/fpp-WledEffects/issues",
 	"versions": [
 		{
 			"minFPPVersion": "5.0",
